@@ -1,0 +1,13 @@
+# Ignore the JSON file containing the cloud keys 
+*.json
+
+# Ignore the venv folder
+venv/
+
+# Ignore Python cache 
+__pycache__/
+*.pyc 
+
+# Ignore v1 and v2
+v1/
+v2/ 
