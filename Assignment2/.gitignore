@@ -1,0 +1,6 @@
+# Ignore the venv folder 
+
+venv/
+
+# Ignore the images 
+Dataset_Occluded_Pedestrian/
